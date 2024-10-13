@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eca486dd.css",
+    "main.js": "/static/js/main.dc1122a9.js",
+    "static/media/nike-3.jpg": "/static/media/nike-3.466fb25b30fb0f5980f2.jpg",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/quests.png": "/static/media/quests.6841ad4bb5d22c9eb8ab.png",
+    "static/media/attention.png": "/static/media/attention.bfddf716fad5707efc68.png",
+    "static/media/forgot-password.png": "/static/media/forgot-password.54340a23b2ae3b9c77bc.png",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/reset-password.png": "/static/media/reset-password.4dfb41d0bc63e96c1f8d.png",
+    "static/media/delete.png": "/static/media/delete.5c002ae6de957a26ef1b.png",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/sc-logo.png": "/static/media/sc-logo.6c4cc84531a483f474f5.png",
+    "static/media/nike-2.jpg": "/static/media/nike-2.1ef7602e3ed8437c0bd2.jpg",
+    "static/media/nike-1.jpg": "/static/media/nike-1.9054cb7761ac22b20ca6.jpg",
+    "static/media/inbox-cleanup-amico.svg": "/static/media/inbox-cleanup-amico.df34dbdac67d66418f392a21ab1d408c.svg",
+    "index.html": "/index.html",
+    "main.eca486dd.css.map": "/static/css/main.eca486dd.css.map",
+    "main.dc1122a9.js.map": "/static/js/main.dc1122a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca486dd.css",
+    "static/js/main.dc1122a9.js"
+  ]
+}
